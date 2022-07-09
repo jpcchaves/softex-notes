@@ -1,5 +1,14 @@
 .container_home {
     text-align: center;
     line-height: 2rem;
-    margin-top: 10rem;
+    margin-top: 8rem;
+}
+
+.title {
+    margin-bottom: 1rem;
+    font-size: 2.2rem;
+}
+
+.text {
+    font-size: 1.2rem;
 }
