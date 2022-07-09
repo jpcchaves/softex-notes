@@ -9,7 +9,7 @@
 
 .module_container p {
     text-align: justify;
-    margin: 0 5rem;
+    margin: 0 5rem 1rem;
     text-indent: 20px;
     line-height: 1.5rem;
 }
