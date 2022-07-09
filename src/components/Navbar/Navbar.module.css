@@ -1,6 +1,7 @@
 ul,
 ul li a,
 nav a {
+  color: #000;
   text-decoration: none;
 }
 
@@ -9,7 +10,6 @@ nav a {
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem 2.5rem;
-  color: #000;
 }
 
 .brand {
@@ -19,19 +19,20 @@ nav a {
   font-size: 2.5em;
 }
 
-.links_list{
-    display: flex;
-    list-style: none;
-    align-items: center;
-    margin-right: 1em;
+.links_list {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-right: 1em;
 }
 
-.links_list li a{
-    padding: .4em .6em;
+.links_list li a {
+  font-weight: bold;
+  padding: 0.4em 0.6em;
 }
 
 .active {
-    background-color: #dadada;
-    color: #da781b;
-    border-radius: 5px;
+  background-color: #dadada;
+  color: #da781b;
+  border-radius: 5px;
 }
