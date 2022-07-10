@@ -46,6 +46,7 @@ const Computacional = () => {
             incentivo ao conhecimento interdisciplinar.
         </strong>
       </p>
+      <hr/>
     </>
   );
 };
