@@ -65,6 +65,7 @@ const ConceitosLogica = () => {
           RESULTADO = 10 ((30*2)-(15-5))/2
         </code>
       </p>
+      <hr />
     </>
   );
 };
