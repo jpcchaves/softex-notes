@@ -46,6 +46,7 @@ const Raciocinio = () => {
         mais velho do que Ana. Ana é mais velha do que Lucas. Portanto, João é
         mais velho que Lucas.”
       </p>
+      <hr/>
     </>
   );
 };
