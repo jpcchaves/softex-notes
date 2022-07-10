@@ -8,6 +8,7 @@ import Algoritmo from "./04 Algoritmo/Algoritmo";
 import ConceitosLogica from "./05 Conteitos Logica/ConceitosLogica";
 import Dados from "./06 Entrada e Saida de Dados/Dados";
 import Expressoes from "./07 Expressões Lógicas/Expressoes";
+import Condicional from "./08 Estrutura Condicional/Condicional";
 
 const Modulo1 = () => {
   return (
@@ -19,6 +20,7 @@ const Modulo1 = () => {
       <ConceitosLogica />
       <Dados />
       <Expressoes />
+      <Condicional />
     </div>
   );
 };

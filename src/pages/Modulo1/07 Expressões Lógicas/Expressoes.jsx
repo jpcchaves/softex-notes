@@ -59,6 +59,7 @@ const Expressoes = () => {
         são. proposições verdadeiras ou falsas. Um exemplo disso é quando um
         aluno pergunta ao professor se ele foi aprovado na disciplina.
       </p>
+      <hr />
     </>
   );
 };
