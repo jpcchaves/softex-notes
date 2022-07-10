@@ -46,6 +46,7 @@ const Algoritmo = () => {
         Portanto, vários algoritmos podem ser realizados para uma mesma solução,
         desde que seja o resultado esperado.
       </p>
+      <hr />
     </>
   );
 };
