@@ -94,6 +94,7 @@ const Condicional = () => {
         Existem quatro tipos de estruturas condicionais:
         <strong> simples; composta; encadeada; e múltipla escolha.</strong>
       </p>
+      <hr />
     </>
   );
 };

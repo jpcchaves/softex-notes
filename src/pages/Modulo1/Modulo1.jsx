@@ -9,6 +9,7 @@ import ConceitosLogica from "./05 Conteitos Logica/ConceitosLogica";
 import Dados from "./06 Entrada e Saida de Dados/Dados";
 import Expressoes from "./07 Expressões Lógicas/Expressoes";
 import Condicional from "./08 Estrutura Condicional/Condicional";
+import Repeticao from "./09 Estrutura de Repetição/Repeticao";
 
 const Modulo1 = () => {
   return (
@@ -21,6 +22,7 @@ const Modulo1 = () => {
       <Dados />
       <Expressoes />
       <Condicional />
+      <Repeticao />
     </div>
   );
 };

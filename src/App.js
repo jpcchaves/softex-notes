@@ -1,3 +1,4 @@
+import React from 'react';
 // Router
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 // CSS
@@ -17,22 +18,24 @@ import Modulo6 from "./pages/Modulo6/Modulo6";
 
 function App() {
   return (
-    <BrowserRouter>
-      {/* Navbar */}
-      <Navbar />
-      <hr/>
-      <div className="container">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/modulo1" element={<Modulo1 />} />
-          <Route path="/modulo2" element={<Modulo2 />} />
-          <Route path="/modulo3" element={<Modulo3 />} />
-          <Route path="/modulo4" element={<Modulo4 />} />
-          <Route path="/modulo5" element={<Modulo5 />} />
-          <Route path="/modulo6" element={<Modulo6 />} />
-        </Routes>
-      </div>
-    </BrowserRouter>
+    <React.Fragment>
+      <BrowserRouter>
+        {/* Navbar */}
+        <Navbar />
+        <hr/>
+        <div className="container">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/modulo1" element={<Modulo1 />} />
+            <Route path="/modulo2" element={<Modulo2 />} />
+            <Route path="/modulo3" element={<Modulo3 />} />
+            <Route path="/modulo4" element={<Modulo4 />} />
+            <Route path="/modulo5" element={<Modulo5 />} />
+            <Route path="/modulo6" element={<Modulo6 />} />
+          </Routes>
+        </div>
+      </BrowserRouter>
+    </React.Fragment>
   );
 }
 
