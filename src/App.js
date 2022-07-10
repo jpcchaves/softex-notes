@@ -1,15 +1,16 @@
-import React from 'react';
+import React from "react";
 // Router
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 // CSS
 import "./App.css";
 
+// Components
+import Navbar from "./components/Navbar/Navbar";
+import Footer from "./components/Footer/Footer";
+
 // Pages
 import Home from "./pages/Home/Home";
 import Modulo1 from "./pages/Modulo1/Modulo1";
-
-// Components
-import Navbar from "./components/Navbar/Navbar";
 import Modulo2 from "./pages/Modulo2/Modulo2";
 import Modulo3 from "./pages/Modulo3/Modulo3";
 import Modulo4 from "./pages/Modulo4/Modulo4";
@@ -18,11 +19,11 @@ import Modulo6 from "./pages/Modulo6/Modulo6";
 
 function App() {
   return (
-    <React.Fragment>
+    <>
       <BrowserRouter>
         {/* Navbar */}
         <Navbar />
-        <hr/>
+        <hr />
         <div className="container">
           <Routes>
             <Route path="/" element={<Home />} />
@@ -33,9 +34,10 @@ function App() {
             <Route path="/modulo5" element={<Modulo5 />} />
             <Route path="/modulo6" element={<Modulo6 />} />
           </Routes>
+          <Footer />
         </div>
       </BrowserRouter>
-    </React.Fragment>
+    </>
   );
 }
 

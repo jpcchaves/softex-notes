@@ -1,0 +1,21 @@
+.footer {
+  text-align: center;
+  padding: 7rem 3rem;
+}
+
+.footer p a {
+  text-decoration: none;
+}
+
+.my_name {
+  color: #2eb6dc;
+  font-weight: bolder;
+  transition: 0.5s ease-in-out;
+}
+
+.my_name:hover {
+  padding: 3px;
+  border-radius: 5px;
+  background-color: #2eb6dc;
+  color: #fff;
+}
