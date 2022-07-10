@@ -81,6 +81,7 @@ const Dados = () => {
         seja necessário. Com isso, é feito todo o processo do algoritmo para ser
         finalizado com o resultado ou a resposta do algoritmo.
       </p>
+      <hr />
     </>
   );
 };

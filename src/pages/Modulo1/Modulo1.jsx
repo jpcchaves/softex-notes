@@ -7,6 +7,7 @@ import Computacional from "./03 Pensamento Computacional/Computacional";
 import Algoritmo from "./04 Algoritmo/Algoritmo";
 import ConceitosLogica from "./05 Conteitos Logica/ConceitosLogica";
 import Dados from "./06 Entrada e Saida de Dados/Dados";
+import Expressoes from "./07 Expressões Lógicas/Expressoes";
 
 const Modulo1 = () => {
   return (
@@ -17,6 +18,7 @@ const Modulo1 = () => {
       <Algoritmo />
       <ConceitosLogica />
       <Dados />
+      <Expressoes />
     </div>
   );
 };
