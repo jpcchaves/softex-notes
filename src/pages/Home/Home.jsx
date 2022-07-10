@@ -5,7 +5,7 @@ const Home = () => {
     <div className={styles.container_home}>
       <h1 className={styles.title}>Olá!</h1>
       <p className={styles.text}>
-        Essa aplicação desenvolvida com <span>ReactJS</span> foi criada para
+        Essa aplicação desenvolvida com <span className={styles.react}>ReactJS</span> foi criada para
         realizar minhas anotações referentes ao curso de Front End ofertado pela
         Softex!<br/>
         Além disso, pretendo praticar minhas habilidades com ReactJS, aliando a
