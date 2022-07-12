@@ -1,11 +1,19 @@
-.module_container h2, h3, h4, ul{
-    text-align: center;
-    margin: 1.5rem auto;
+.module_container {
+  max-width: 800px;
+  margin: 10px auto;
+}
+
+.module_container h2,
+h3,
+h4,
+ul {
+  text-align: center;
+  margin: 1.5rem auto;
 }
 
 .module_container p {
-    text-align: justify;
-    margin: 0 5rem 1rem;
-    text-indent: 20px;
-    line-height: 1.5rem;
+  text-align: justify;
+  margin: 0 5rem 1rem;
+  text-indent: 20px;
+  line-height: 1.5rem;
 }
