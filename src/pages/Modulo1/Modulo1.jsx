@@ -11,6 +11,7 @@ import Expressoes from "./07 Expressões Lógicas/Expressoes";
 import Condicional from "./08 Estrutura Condicional/Condicional";
 import Repeticao from "./09 Estrutura de Repetição/Repeticao";
 import BubbleSort from "./10 BubbleSort/BubbleSort";
+import QuickSort from "./11 QuickSort/QuickSort";
 
 const Modulo1 = () => {
   return (
@@ -25,6 +26,7 @@ const Modulo1 = () => {
       <Condicional />
       <Repeticao />
       <BubbleSort />
+      <QuickSort />
     </div>
   );
 };

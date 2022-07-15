@@ -55,6 +55,7 @@ const BubbleSort = () => {
         seja maior que a chave da posição "b", ela toma a posição "b" e "b" vai
         para a posição "a". Como podemos ver na imagem.
       </p>
+      <hr />
     </>
   );
 };
