@@ -10,6 +10,7 @@ import Dados from "./06 Entrada e Saida de Dados/Dados";
 import Expressoes from "./07 Expressões Lógicas/Expressoes";
 import Condicional from "./08 Estrutura Condicional/Condicional";
 import Repeticao from "./09 Estrutura de Repetição/Repeticao";
+import BubbleSort from "./10 BubbleSort/BubbleSort";
 
 const Modulo1 = () => {
   return (
@@ -23,6 +24,7 @@ const Modulo1 = () => {
       <Expressoes />
       <Condicional />
       <Repeticao />
+      <BubbleSort />
     </div>
   );
 };
