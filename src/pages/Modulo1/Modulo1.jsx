@@ -31,7 +31,7 @@ const Modulo1 = () => {
       <Insertion />
 
 
-      <a href="#navbar-topo" id={styles.topo}>&#9650;</a>
+     
     </div>
   );
 };

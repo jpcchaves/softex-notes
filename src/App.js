@@ -7,6 +7,7 @@ import "./App.css";
 // Components
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
+import ButtonTop from "./components/ButtonTop/ButtonTop";
 
 // Pages
 import Home from "./pages/Home/Home";
@@ -35,6 +36,7 @@ function App() {
             <Route path="/modulo6" element={<Modulo6 />} />
           </Routes>
           <Footer />
+          <ButtonTop />
         </div>
       </BrowserRouter>
     </>
