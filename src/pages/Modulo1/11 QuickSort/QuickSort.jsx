@@ -49,8 +49,8 @@ const QuickSort = () => {
       <p>
         Exemplo: <br />
         <code>
-          [7, 12, 10, 8, 19, 5, 3, 90] <br /> [7, 12, 10, 8] [19, 5, 3,
-          90] <br />
+          [7, 12, 10, 8, 19, 5, 3, 90] <br /> [7, 12, 10, 8] [19, 5, 3, 90]{" "}
+          <br />
           [7, 12] [10, 8] [19, 5] [3, 90] <br /> [7] [12] [10] [8] [19] [5] [3]
           [90]
           <br />
@@ -64,6 +64,7 @@ const QuickSort = () => {
         Em comparação, o quicksort acaba sendo mais rápido do que o mergesort
         pois suas constantes são menores
       </p>
+      <hr />
     </>
   );
 };

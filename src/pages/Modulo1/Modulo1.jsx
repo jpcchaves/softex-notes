@@ -12,6 +12,7 @@ import Condicional from "./08 Estrutura Condicional/Condicional";
 import Repeticao from "./09 Estrutura de Repetição/Repeticao";
 import BubbleSort from "./10 BubbleSort/BubbleSort";
 import QuickSort from "./11 QuickSort/QuickSort";
+import Insertion from "./12 InsertionSort/Insertion";
 
 const Modulo1 = () => {
   return (
@@ -27,6 +28,7 @@ const Modulo1 = () => {
       <Repeticao />
       <BubbleSort />
       <QuickSort />
+      <Insertion />
     </div>
   );
 };
