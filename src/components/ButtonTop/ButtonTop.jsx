@@ -35,7 +35,7 @@ const ButtonTop = () => {
     <>
       <button
         type="button"
-        className={classNames(isVisible ? styles.topo : "")}
+        className={classNames(isVisible ? styles.topo : styles.dont_show)}
         onClick={scrollToTop}
       >
         &#9650;

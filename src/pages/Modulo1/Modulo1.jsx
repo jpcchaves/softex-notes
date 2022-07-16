@@ -29,9 +29,6 @@ const Modulo1 = () => {
       <BubbleSort />
       <QuickSort />
       <Insertion />
-
-
-     
     </div>
   );
 };

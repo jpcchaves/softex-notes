@@ -24,7 +24,6 @@ function App() {
       <BrowserRouter>
         {/* Navbar */}
         <Navbar />
-        <hr />
         <div className="container">
           <Routes>
             <Route path="/" element={<Home />} />
@@ -36,8 +35,8 @@ function App() {
             <Route path="/modulo6" element={<Modulo6 />} />
           </Routes>
           <Footer />
-          <ButtonTop />
         </div>
+        <ButtonTop />
       </BrowserRouter>
     </>
   );
