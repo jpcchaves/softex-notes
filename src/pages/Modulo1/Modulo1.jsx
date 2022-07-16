@@ -14,6 +14,7 @@ import BubbleSort from "./10 BubbleSort/BubbleSort";
 import QuickSort from "./11 QuickSort/QuickSort";
 import Insertion from "./12 InsertionSort/Insertion";
 import Alocacao from "./13 Alocação/Alocacao";
+import EstrutuArq from "./14 Estrutura de Arquivos/EstrutuArq";
 
 const Modulo1 = () => {
   return (
@@ -31,6 +32,7 @@ const Modulo1 = () => {
       <QuickSort />
       <Insertion />
       <Alocacao />
+      <EstrutuArq />
     </div>
   );
 };

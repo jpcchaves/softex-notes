@@ -61,6 +61,7 @@ const Alocacao = () => {
         atribui o endereço de “varA” para o ponteiro “varA”. Para acessar o
         endereço, basta utilizar o operador "*". *pt_varA;
       </p>
+      <hr />
     </>
   );
 };
