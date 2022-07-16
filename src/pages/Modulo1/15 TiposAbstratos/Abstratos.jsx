@@ -59,6 +59,7 @@ const Abstratos = () => {
         print para usarmos em todos os nossos códigos sem a necessidade de
         criá-los do zero.{" "}
       </p>
+      <hr />
     </>
   );
 };
