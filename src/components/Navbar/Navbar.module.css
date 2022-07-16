@@ -36,3 +36,9 @@ nav a {
   color: #da781b;
   border-radius: 5px;
 }
+
+@media (max-width: 768px){
+  ul li a{
+    display: none;
+  }
+}
