@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav className={styles.navbar}>
+    <nav className={styles.navbar} id="navbar-topo">
       <NavLink to="/">
         <span className={styles.brand}>Softex</span>
       </NavLink>

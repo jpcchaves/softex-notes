@@ -8,7 +8,7 @@ const Algoritmo = () => {
       <p>
         O algoritmo é um conjunto de instruções, cujas ações devem atingir uma
         finalidade. Ele estará correto quando o objetivo final é o esperado.{" "}
-        <storng>Ex: Etapas para a elaboração de um bolo.</storng>
+        <strong>Ex: Etapas para a elaboração de um bolo.</strong>
       </p>
       <p>
         Até na nossa rotina diária nós criamos algoritmos. Pois, antes de
