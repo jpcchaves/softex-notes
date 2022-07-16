@@ -15,6 +15,7 @@ import QuickSort from "./11 QuickSort/QuickSort";
 import Insertion from "./12 InsertionSort/Insertion";
 import Alocacao from "./13 Alocação/Alocacao";
 import EstrutuArq from "./14 Estrutura de Arquivos/EstrutuArq";
+import Abstratos from "./15 TiposAbstratos/Abstratos";
 
 const Modulo1 = () => {
   return (
@@ -33,6 +34,7 @@ const Modulo1 = () => {
       <Insertion />
       <Alocacao />
       <EstrutuArq />
+      <Abstratos />
     </div>
   );
 };
