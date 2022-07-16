@@ -54,6 +54,7 @@ const Grafos = () => {
         pelos vértices e as estradas pelas arestas
       </p>
       <p>Os circuitos integrados</p>
+      <hr />
     </>
   );
 };
