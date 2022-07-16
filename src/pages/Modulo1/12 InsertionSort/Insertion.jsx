@@ -81,6 +81,7 @@ const Insertion = () => {
         conquistar”; <br /> Desvantagem: tem maior tempo de execução, assim, não
         é recomendado para listas grandes.
       </p>
+      <hr />
     </>
   );
 };

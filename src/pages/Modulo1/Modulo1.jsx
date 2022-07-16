@@ -13,6 +13,7 @@ import Repeticao from "./09 Estrutura de Repetição/Repeticao";
 import BubbleSort from "./10 BubbleSort/BubbleSort";
 import QuickSort from "./11 QuickSort/QuickSort";
 import Insertion from "./12 InsertionSort/Insertion";
+import Alocacao from "./13 Alocação/Alocacao";
 
 const Modulo1 = () => {
   return (
@@ -29,6 +30,7 @@ const Modulo1 = () => {
       <BubbleSort />
       <QuickSort />
       <Insertion />
+      <Alocacao />
     </div>
   );
 };
