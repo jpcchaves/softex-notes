@@ -27,6 +27,7 @@ const ConceitosBasicos = () => {
         passos são requisitos para outros. Qual o melhor caminho e a melhor
         forma para alcançar o objetivo
       </p>
+      <hr />
     </>
   );
 };

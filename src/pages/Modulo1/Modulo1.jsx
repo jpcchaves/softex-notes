@@ -19,6 +19,7 @@ import Abstratos from "./15 TiposAbstratos/Abstratos";
 import Grafos from "./16 Grafos/Grafos";
 import Arvores from "./17 ArvoresDeBusca/Arvores";
 import ConceitosBasicos from "./18 ConceitosBasicos/ConceitosBasicos";
+import Programacao from "./19 Introdução a Programação/Programacao";
 
 const Modulo1 = () => {
   return (
@@ -41,6 +42,7 @@ const Modulo1 = () => {
       <Grafos />
       <Arvores />
       <ConceitosBasicos />
+      <Programacao />
     </div>
   );
 };
