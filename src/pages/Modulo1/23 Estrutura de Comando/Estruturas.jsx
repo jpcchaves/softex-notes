@@ -75,6 +75,7 @@ const Estruturas = () => {
         <br /> elif(nota {">="}7):
         <br /> print("Aprovado")
       </p>
+      <hr />
     </>
   );
 };

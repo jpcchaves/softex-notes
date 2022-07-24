@@ -24,6 +24,7 @@ import TiposAlg from "./20 Tipos de Repretensação/TiposAlg";
 import TiposDados from "./21 Tipos de Dados/TiposDados";
 import Operadores from "./22 Tipos de Operadores/Operadores";
 import Estruturas from "./23 Estrutura de Comando/Estruturas";
+import LacosRepeticao from "./24 LacosRepet/LacosRepeticao";
 
 const Modulo1 = () => {
   return (
@@ -51,6 +52,7 @@ const Modulo1 = () => {
       <TiposDados />
       <Operadores />
       <Estruturas />
+      <LacosRepeticao />
     </div>
   );
 };
