@@ -22,6 +22,7 @@ import ConceitosBasicos from "./18 ConceitosBasicos/ConceitosBasicos";
 import Programacao from "./19 Introdução a Programação/Programacao";
 import TiposAlg from "./20 Tipos de Repretensação/TiposAlg";
 import TiposDados from "./21 Tipos de Dados/TiposDados";
+import Operadores from "./22 Tipos de Operadores/Operadores";
 
 const Modulo1 = () => {
   return (
@@ -47,6 +48,7 @@ const Modulo1 = () => {
       <Programacao />
       <TiposAlg />
       <TiposDados />
+      <Operadores />
     </div>
   );
 };

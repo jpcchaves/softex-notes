@@ -65,6 +65,7 @@ const TiposDados = () => {
         variável não fosse utilizada, seria necessário alterar seu valor em
         todos os lugares.
       </p>
+      <hr />
     </>
   );
 };
