@@ -47,6 +47,7 @@ const Arvores = () => {
       <p>Basta remover o nó ou substituí-lo pelo seu único filho</p>
       <h4>Nó com dois filhos</h4>
       <p></p>
+      <hr />
     </>
   );
 };
