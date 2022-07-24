@@ -11,6 +11,7 @@ const Operadores = () => {
       <p>Armazena os valores nas variáveis "="</p>
       <h3>Aritméticos</h3>
       <p>Operações Básicas + - / * e % (resto da divisão)</p>
+      <hr />
     </>
   );
 };
