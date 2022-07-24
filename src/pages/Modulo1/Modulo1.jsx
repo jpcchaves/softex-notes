@@ -21,6 +21,7 @@ import Arvores from "./17 ArvoresDeBusca/Arvores";
 import ConceitosBasicos from "./18 ConceitosBasicos/ConceitosBasicos";
 import Programacao from "./19 Introdução a Programação/Programacao";
 import TiposAlg from "./20 Tipos de Repretensação/TiposAlg";
+import TiposDados from "./21 Tipos de Dados/TiposDados";
 
 const Modulo1 = () => {
   return (
@@ -45,6 +46,7 @@ const Modulo1 = () => {
       <ConceitosBasicos />
       <Programacao />
       <TiposAlg />
+      <TiposDados />
     </div>
   );
 };

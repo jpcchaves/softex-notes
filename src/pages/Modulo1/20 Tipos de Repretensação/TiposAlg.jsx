@@ -27,6 +27,7 @@ const TiposAlg = () => {
         No fluxograma, é usado um fluxograma (obviamente) para representar o
         fluxo do programa
       </p>
+      <hr />
     </>
   );
 };
