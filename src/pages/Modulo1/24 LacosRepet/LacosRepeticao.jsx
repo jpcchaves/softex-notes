@@ -125,6 +125,7 @@ const LacosRepeticao = () => {
           print("Fim do descanso!")
         </code>
       </p>
+      <hr />
     </>
   );
 };
