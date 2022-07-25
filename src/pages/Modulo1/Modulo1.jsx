@@ -26,6 +26,7 @@ import Operadores from "./22 Tipos de Operadores/Operadores";
 import Estruturas from "./23 Estrutura de Comando/Estruturas";
 import LacosRepeticao from "./24 LacosRepet/LacosRepeticao";
 import RetornoFunc from "./25 Estrutura e Retonro de função/RetornoFunc";
+import FluxoDados from "./26 Fluxo de Dados/FluxoDados";
 
 const Modulo1 = () => {
   return (
@@ -55,6 +56,7 @@ const Modulo1 = () => {
       <Estruturas />
       <LacosRepeticao />
       <RetornoFunc />
+      <FluxoDados />
     </div>
   );
 };

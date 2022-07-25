@@ -130,6 +130,7 @@ const RetornoFunc = () => {
           resultado = calculadoraImc(peso,altura) print(resultado)
         </code>
       </p>
+      <hr />
     </>
   );
 };
