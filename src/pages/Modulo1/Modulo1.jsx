@@ -29,6 +29,7 @@ import RetornoFunc from "./25 Estrutura e Retonro de função/RetornoFunc";
 import FluxoDados from "./26 Fluxo de Dados/FluxoDados";
 import Erros from "./27 Erros/Erros";
 import Enum from "./28 ENUM/Enum";
+import OpLeitura from "./29 Operadores De Leitura/OpLeitura";
 
 const Modulo1 = () => {
   return (
@@ -61,6 +62,7 @@ const Modulo1 = () => {
       <FluxoDados />
       <Erros />
       <Enum />
+      <OpLeitura />
     </div>
   );
 };
