@@ -34,6 +34,7 @@ const FluxoDados = () => {
         Para isso, vamos utilizar a função input. Faz com que o programa pare a
         sua execução e aguarde a entrada de texto pelo usuário
       </p>
+      <hr />
     </>
   );
 };
