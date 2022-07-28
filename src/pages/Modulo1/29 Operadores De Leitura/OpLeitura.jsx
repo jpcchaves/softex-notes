@@ -69,6 +69,7 @@ const OpLeitura = () => {
         aula, será trabalhado a evolução dessas técnicas e novas bibliotecas que
         auxiliam na manipulação de arquivos.
       </p>
+      <hr />
     </>
   );
 };

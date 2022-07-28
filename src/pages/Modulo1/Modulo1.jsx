@@ -30,6 +30,7 @@ import FluxoDados from "./26 Fluxo de Dados/FluxoDados";
 import Erros from "./27 Erros/Erros";
 import Enum from "./28 ENUM/Enum";
 import OpLeitura from "./29 Operadores De Leitura/OpLeitura";
+import AnaliseDados from "./30 Analise de Dados/AnaliseDados";
 
 const Modulo1 = () => {
   return (
@@ -63,6 +64,7 @@ const Modulo1 = () => {
       <Erros />
       <Enum />
       <OpLeitura />
+      <AnaliseDados />
     </div>
   );
 };
