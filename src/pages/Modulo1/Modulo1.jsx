@@ -31,6 +31,7 @@ import Erros from "./27 Erros/Erros";
 import Enum from "./28 ENUM/Enum";
 import OpLeitura from "./29 Operadores De Leitura/OpLeitura";
 import AnaliseDados from "./30 Analise de Dados/AnaliseDados";
+import Poo from "./31 POO/Poo";
 
 const Modulo1 = () => {
   return (
@@ -65,6 +66,7 @@ const Modulo1 = () => {
       <Enum />
       <OpLeitura />
       <AnaliseDados />
+      <Poo />
     </div>
   );
 };
